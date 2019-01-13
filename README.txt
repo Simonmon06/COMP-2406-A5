@@ -3,6 +3,7 @@
 
 The node version is 8.11.4 and npm version is 5.6.0.
 
+Open 2406fall2018Assignment5 Rev2.html to see requirments for this project.
 
 First get mongod running. That is, start up the mongodb database listening
 on its default port of 27017.
